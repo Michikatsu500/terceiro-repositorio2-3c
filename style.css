@@ -139,7 +139,7 @@ label {
     justify-content: space-between;
 }
 
-.media{
+.média{
     background-color: #faf408;
     width: 50%;
 }
@@ -149,7 +149,7 @@ label {
     width: 100%;
 }
 
-@media screen and (min-width: 768px) {
+@média screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
     }
